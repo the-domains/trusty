@@ -1,0 +1,28 @@
+name: Trusty
+favicon: null
+layout_spectrum: 0.14361037081107497
+typography_spectrum: 0.09482933208346367
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#17BEBB'
+    - '#2E282A'
+    - '#CD5334'
+    - '#EDB88B'
+    - '#FAD8D6'
+  brandStrength: 0.6514671710319817
+  lightness: 0.13199698412790895
+  saturation: 0.00796727929264307
+  rhythmicContrast: 0.5828650263138115
+purpose: []
